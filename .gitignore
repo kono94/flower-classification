@@ -1,0 +1,5 @@
+env/
+.DS_Store
+retrain_logs/*
+powerlog/
+output_graph.pb

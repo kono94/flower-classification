@@ -1,0 +1,7 @@
+1. Create a folder named "C: \tmp" 
+
+2. Add files (output_labels, retrain.py , retrain_model_classifier.py, blume1,...blume?) and folder "flower_photos"  in folder "C: \tmp"
+
+3. python C:/tmp/retrain.py --image_dir C:/tmp/flower_photos
+
+4. python C:/tmp/retrain_model_classifier.py /tmp/blume2.jpg
